@@ -1,9 +1,11 @@
 streamlit
 google-genai
 python-dotenv
-paddleocr
 numpy
 Pillow
 folium
 streamlit-folium
 streamlit-geolocation
+
+opencv-python-headless
+paddleocr
