@@ -6,6 +6,6 @@ Pillow
 folium
 streamlit-folium
 streamlit-geolocation
-
+paddle
 opencv-python-headless
 paddleocr
