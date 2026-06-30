@@ -51,7 +51,7 @@ st.set_page_config(
     page_title="MedSave AI",
 )
 st.title("MedSave AI")
-st.subheader("Find Generetic Medicine")
+st.subheader("Find Generic Medicine")
 
 but = st.radio(label="Choose a option",options = ["Upload Prescribsion","Upload Single Medicine","Type Manually"])
 
